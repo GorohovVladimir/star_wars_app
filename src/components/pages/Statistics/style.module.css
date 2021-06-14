@@ -1,0 +1,14 @@
+.statistics {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.block {
+  min-width: 250px;
+  border: 1px solid black;
+  display: block;
+  padding: 32px;
+  align-items: center;
+  margin: 20px;
+}

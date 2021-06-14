@@ -1,0 +1,5 @@
+[
+    { "id": 0, "title": "Home", "link": "/home"},
+    { "id": 1, "title": "Planets", "link": "/planets"},
+    { "id": 2, "title": "Statistics", "link": "/statistics"}
+]
